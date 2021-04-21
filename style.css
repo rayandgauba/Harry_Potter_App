@@ -1,0 +1,13 @@
+body{
+    text-align: center;
+    background-color: red;
+    color: white;
+}
+
+#description{
+    font-style: oblique;
+    color: white;
+}
+#dlvl{
+    width:602px;
+}
